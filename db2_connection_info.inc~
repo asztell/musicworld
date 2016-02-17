@@ -1,0 +1,7 @@
+<?php
+	$Hostname = 'localhost';	
+	$Username = 'mangal';
+	$Password = 'ifta';
+	$Database = 'albums';
+?>
+
